@@ -1,0 +1,32 @@
+{
+  "name": "io-lazyload",
+  "version": "1.0.0",
+  "description": "a lazyload package based on IntersectionObserver interface.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunlzhang/lazyload.git"
+  },
+  "keywords": [
+    "lazyload",
+    "IntersectionObserver"
+  ],
+  "author": "zyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunlzhang/lazyload/issues"
+  },
+  "homepage": "https://github.com/yunlzhang/lazyload#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-transform-classes": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
