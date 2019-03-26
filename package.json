@@ -1,5 +1,5 @@
 {
-  "name": "io-lazyload",
+  "name": "lazyload-new",
   "version": "1.0.0",
   "description": "a lazyload plugin based on IntersectionObserver interface.",
   "main": "lib/index.js",
