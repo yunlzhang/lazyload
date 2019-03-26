@@ -38,4 +38,4 @@ class Lazyload {
     }
 }
 
-export default Lazyload;
+export {Lazyload};

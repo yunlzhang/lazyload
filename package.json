@@ -1,7 +1,7 @@
 {
   "name": "io-lazyload",
   "version": "1.0.0",
-  "description": "a lazyload package based on IntersectionObserver interface.",
+  "description": "a lazyload plugin based on IntersectionObserver interface.",
   "main": "lib/index.js",
   "scripts": {
     "build": "webpack",
